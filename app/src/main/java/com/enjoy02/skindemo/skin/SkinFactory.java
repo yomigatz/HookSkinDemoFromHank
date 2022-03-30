@@ -2,12 +2,13 @@ package com.enjoy02.skindemo.skin;
 
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.support.v7.app.AppCompatDelegate;
 import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatDelegate;
 
 import com.enjoy02.skindemo.R;
 import com.enjoy02.skindemo.view.ZeroView;

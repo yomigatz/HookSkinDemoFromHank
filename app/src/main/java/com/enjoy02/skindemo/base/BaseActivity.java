@@ -2,9 +2,10 @@ package com.enjoy02.skindemo.base;
 
 import android.os.Bundle;
 import android.os.Environment;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.LayoutInflater;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.enjoy02.skindemo.skin.SkinEngine;
 import com.enjoy02.skindemo.skin.SkinFactory;
